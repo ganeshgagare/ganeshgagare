@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ganesh.gagare.19@gmail.com**
 
-- ⚡ Fun fact **I am funny 😅**
+- 🧑‍🎓 Studying at **ADYPSOE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
