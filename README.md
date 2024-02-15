@@ -1,4 +1,4 @@
-![logo](https://github.com/ganeshgagare/ganeshgagare/blob/main/1681414550639.jpeg)
+![logo](https://github.com/ganeshgagare/ganeshgagare/blob/main/a0b0869be6a75f9a4943d8f435a72822.jpg)
 <h1 align="center">Hi 👋, I'm Ganesh Gagare</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
