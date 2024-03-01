@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ganesh.gagare.19@gmail.com**
 
-- 🧑‍🎓 **Third Year ** Computer Engineering Student
+- 🧑‍🎓 **Third Year** Computer Engineering Student
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
