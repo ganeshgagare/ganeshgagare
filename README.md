@@ -22,4 +22,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshgagare&show_icons=true&locale=en&layout=compact" alt="ganeshgagare" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshgagare&" alt="ganeshgagare" /></p>
